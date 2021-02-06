@@ -1,0 +1,16 @@
+
+[
+    {
+        "id": 1,
+        "chatId": 1,
+        "message": "Привет!",
+        "author": "bot"
+    },
+    {
+        "id": 2,
+        "chatId": 2,
+        "message": "Здравствуйте!",
+        "author": "bot"
+    }
+ ]
+ 
